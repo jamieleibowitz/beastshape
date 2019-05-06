@@ -1,0 +1,98 @@
+Name,Subtitle,Hit Points,Armor Class,Challenge Rating,Swimming,Flying
+Baboon,Small beast,3,12,0,0,0
+Badger,Tiny beast,3,10,0,0,0
+Bat,Tiny beast,1,12,0,0,30
+Cat,Tiny beast,2,12,0,0,0
+Crab,Tiny beast,2,11,0,20,0
+Deer,Medium beast,4,13,0,0,0
+Eagle,Small beast,3,12,0,0,60
+Frog,Tiny beast,1,11,0,20,0
+Giant Fire Beetle,Small beast,4,13,0,0,0
+Goat,Medium beast,4,10,0,0,0
+Hawk,Tiny beast,1,13,0,0,60
+Hyena,Medium beast,5,11,0,0,0
+Jackal,Small beast,3,12,0,0,0
+Lizard,Tiny beast,2,10,0,0,0
+Octopus,Small beast,3,12,0,30,0
+Owl,Tiny beast,1,11,0,0,60
+Quipper,Tiny beast,1,13,0,40,0
+Rat,Tiny beast,1,10,0,0,0
+Raven,Tiny beast,1,12,0,0,50
+Scorpion,Tiny beast,1,11,0,0,0
+Sea Horse,Tiny beast,1,11,0,20,0
+Spider,Tiny beast,1,12,0,0,0
+Vulture,Medium beast,5,10,0,0,50
+Weasel,Tiny beast,1,13,0,0,0
+Blood Hawk,Small beast,7,12,0.125,0,60
+Camel,Large beast,15,9,0.125,0,0
+Diseased Giant Rat,Small beast,7,12,0.125,0,0
+Flying Snake,Tiny beast,5,14,0.125,30,60
+Giant Crab,Medium beast,13,15,0.125,30,0
+Giant Rat,Small beast,7,12,0.125,0,0
+Giant Weasel,Medium beast,9,13,0.125,0,0
+Mastiff,Medium beast,5,12,0.125,0,0
+Mule,Medium beast,11,10,0.125,0,0
+Poisonous Snake,Tiny beast,2,13,0.125,30,0
+Pony,Medium beast,11,10,0.125,0,0
+Stirge,Tiny beast,2,14,0.125,0,40
+Axe Beak,Large beast,19,11,0.25,0,0
+Boar,Medium beast,11,11,0.25,0,0
+Constrictor Snake,Large beast,13,12,0.25,30,0
+Draft Horse,Large beast,19,10,0.25,0,0
+Elk,Large beast,13,10,0.25,0,0
+Giant Badger,Medium beast,13,10,0.25,0,0
+Giant Bat,Large beast,22,13,0.25,0,60
+Giant Centipede,Small beast,4,13,0.25,0,0
+Giant Frog,Medium beast,18,11,0.25,30,0
+Giant Lizard,Large beast,19,12,0.25,0,0
+Giant Owl,Large beast,19,12,0.25,0,60
+Giant Poisonous Snake,Medium beast,11,14,0.25,30,0
+Giant Wolf Spider,Medium beast,11,13,0.25,0,0
+Panther,Medium beast,13,12,0.25,0,0
+Riding Horse,Large beast,13,10,0.25,0,0
+Wolf,Medium beast,11,13,0.25,0,0
+Swarm of Bats,Medium swarm of tiny beasts,22,12,0.25,0,30
+Swarm of Rats,Medium swarm of tiny beasts,24,10,0.25,0,0
+Swarm of Ravens,Medium swarm of tiny beasts,24,12,0.25,0,50
+Ape,Medium beast,19,12,0.5,0,0
+Black Bear,Medium beast,19,11,0.5,0,0
+Crocodile,Large beast,19,12,0.5,30,0
+Giant Goat,Large beast,19,11,0.5,0,0
+Giant Sea Horse,Large beast,16,13,0.5,40,0
+Giant Wasp,Medium beast,13,12,0.5,50,50
+Reef Shark,Medium beast,22,12,0.5,40,0
+Warhorse,Large beast,19,11,0.5,0,0
+Swarm of Beetles,Medium swarm of tiny beasts,22,12,0.5,0,0
+Swarm of Centipedes,Medium swarm of tiny beasts,22,12,0.5,0,0
+Swarm of Insects,Medium swarm of tiny beasts,22,12,0.5,0,0
+Swarm of Spiders,Medium swarm of tiny beasts,22,12,0.5,0,0
+Swarm of Wasps,Medium swarm of tiny beasts,22,12,0.5,0,30
+Brown Bear,Large beast,34,11,1,0,0
+Dire Wolf,Large beast,37,14,1,0,0
+Giant Eagle,Large beast ,26,13,1,0,80
+Giant Hyena,Large beast,45,12,1,0,0
+Giant Octopus,Large beast,52,11,1,60,0
+Giant Spider,Large beast,26,14,1,0,0
+Giant Toad,Large beast,39,11,1,40,0
+Giant Vulture,Large beast ,22,10,1,0,60
+Lion,Large beast,26,12,1,0,0
+Tiger,Large beast,37,12,1,0,0
+Swarm of Quippers,Medium swarm of tiny beasts,28,13,1,10,0
+Giant Boar,Large beast,42,12,2,0,0
+Giant Constrictor Snake,Huge beast,60,12,2,30,0
+Giant Elk,Huge beast,42,14,2,0,0
+Hunter Shark,Large beast,45,12,2,40,0
+Plesiosaurus,Large beast,68,13,2,40,0
+Polar Bear,Large beast,42,12,2,30,0
+Rhinoceros,Large beast,45,11,2,0,0
+Saber-Toothed Tiger,Large beast,52,12,2,0,0
+Swarm of Poisonous Snakes,Medium swarm of tiny beasts,36,14,2,30,0
+Giant Scorpion,Large beast,52,15,3,0,0
+Killer Whale,Huge beast,90,12,3,60,0
+Elephant,Huge beast,76,12,4,0,0
+Giant Crocodile,Huge beast,85,14,5,50,0
+Giant Shark,Huge beast,126,13,5,50,0
+Triceratops,Huge beast,95,13,5,0,0
+Mammoth,Huge beast,126,13,6,0,0
+Giant Ape,Huge beast,157,12,7,0,0
+Tyrannosaurus Rex,Huge beast,136,13,8,0,0
